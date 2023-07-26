@@ -22,5 +22,5 @@ $ pio run -t upload
 
 * debug方法（シリアルモニター機能を使うことでログ出力できる）
 ```bash
-pio device monitor
+# pio device monitor
 ```
