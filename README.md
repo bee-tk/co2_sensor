@@ -11,6 +11,7 @@ $ git clone git@github.com:bee-tk/co2_sensor.git
 
 # 使い方
 * firmwareの書き換え
+
 co2_sensor/src/main.cppを編集する。setup()は一度のみ実行され、loop()は無限ループされる関数
 
 * M5StickC PlusをPCと接続して、以下のコマンドでビルド、実機へのインストールが出来る
